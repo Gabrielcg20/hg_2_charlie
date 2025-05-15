@@ -1,1 +1,11 @@
-# hg_2_carlie
+# hg_2_charlie
+
+## TEAM 3
+
+<hdr>
+
+| NOMBRE | UBICACION | ALIAS |
+| ------ | ------ | ------ |
+| ODALIS PINO | LOS TEQUES | CHARLIE |
+| GABRIEL CERVINI | CARACAS | ALFA |
+| ANDY PEREZ | LA VICTORIA | DELTA |
